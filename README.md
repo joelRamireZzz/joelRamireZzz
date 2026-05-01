@@ -11,7 +11,7 @@
     <img height="40" src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https:https://joelramirezzz.github.io/" target="_blank">
+  <a href="https://joelramirezzz.github.io/" target="_blank">
     <img height="40" src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefoxbrowser&logoColor=white"/>
   </a>
 </p>
