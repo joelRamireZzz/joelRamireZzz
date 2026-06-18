@@ -54,21 +54,7 @@ Fun Fact:    I debug with console.log and I'm not ashamed 🐛
   </tr>
 </table>
 
----
 
-##  GitHub Stats
-
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joelRamireZzz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-  &nbsp;
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joelRamireZzz&layout=compact&langs_count=7&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=joelRamireZzz&theme=tokyonight&hide_border=true"/>
-</p>
-
----
 
 ## 🐍 My Contributions
 
