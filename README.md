@@ -1,4 +1,4 @@
-### Hi, I'm Joel Ramirez 👋
+### Hi, I'm Joel Ramirez 
 
 ➤ Check out my [portfolio](https://joelramirezzz.github.io/) <br>
 ➤ Computer Systems Engineering student <br>
