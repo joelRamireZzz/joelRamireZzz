@@ -1,8 +1,8 @@
 ### Hi, I'm Joel Ramirez 👋
 
-➤ Check out my [portfolio](https://joelramirezzz.github.io/)
-➤ Computer Systems Engineering student
-➤ Tech stack: JavaScript • React • Databases
+➤ Check out my [portfolio](https://joelramirezzz.github.io/) <br>
+➤ Computer Systems Engineering student <br>
+➤ Tech stack: JavaScript • React • Databases <br>
 ➤ Connect with me: [joelramirezmc@gmail.com](mailto:joelramirezmc@gmail.com) • [LinkedIn](https://www.linkedin.com/in/joelramirezzz)
 
 **Interests:**
